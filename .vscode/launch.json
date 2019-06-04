@@ -11,7 +11,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Lauch debug with Chrome",
-            "url": "http://127.0.0.1:5500/Exercises/JavaScript/Functions/functions.html",
+            "url": "http://127.0.0.1:5500/Exercises/JavaScript/Todo list/todo.html",
             "webRoot": "${workspaceRoot}"
         }
   
