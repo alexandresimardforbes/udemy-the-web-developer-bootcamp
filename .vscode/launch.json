@@ -11,7 +11,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Lauch debug with Chrome",
-            "url": "http://127.0.0.1:5500/Exercises/DOM%20Manipulation/Todo/Todo.html",
+            "url": "http://127.0.0.1:5500/Projects/Color%20Game/ColorGame.Html",
             "webRoot": "${workspaceRoot}"
         }
   
