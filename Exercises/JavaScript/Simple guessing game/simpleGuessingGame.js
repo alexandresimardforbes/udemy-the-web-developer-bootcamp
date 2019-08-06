@@ -1,4 +1,6 @@
 var secretNumber = 4;
+
+
 var guess = Number(prompt("Guess a number!"));
 
 if(guess === secretNumber) {
